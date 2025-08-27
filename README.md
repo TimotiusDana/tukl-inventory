@@ -1,8 +1,5 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<img width="1920" height="1080" alt="Screenshot (1963)" src="https://github.com/user-attachments/assets/cad609f5-0981-4406-accd-41f66406923c" />
 
-## Getting Started
-
-First, run the development server:
 
 ```bash
 npm run dev
