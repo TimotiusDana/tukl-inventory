@@ -22,10 +22,10 @@ const links: NavigationLink[] = [
   { name: 'Home', href: '/dashboard', icon: HomeIcon },
   {
     name: 'Inventories',
-    href: '/dashboard/invent',
+    href: '/dashboard/invents',
     icon: DocumentDuplicateIcon,
   },
-  { name: 'People In Charge', href: '/dashboard/incharge', icon: UserGroupIcon },
+  { name: 'People In Charge', href: '/dashboard/incharges', icon: UserGroupIcon },
 ];
 
 export default function NavLinks() {
